@@ -4,7 +4,7 @@ Record the resources on Github
 
 在github上star太多了，有时候很难找到自己想要的开源库，所以在此记录下来。便于自己开发使用。也顺便分享给大家。
 
-最后更新日期：**9月30日**
+最后更新日期：**10月10日**
 ***
 # 动画
 **[awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation)**
@@ -56,6 +56,9 @@ Rich Markdown editing control for iOS
 
 **[ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift)**
 扩展实现 UILabel 触控事件针对 **`#, @, 链接`**响应及事件捕获。
+
+[FDStackView](https://github.com/forkingdog/FDStackView)
+Use UIStackView directly in iOS6+
 
 ***
 # VideoPlayer
@@ -121,6 +124,10 @@ vvebo作者：多选照片、预览已选照片、针对超大图片优化
 完整、强大、实用的图片管理类库。主要功能包括可定制装载，缓存，滤镜及尺寸变换。
 
 ***
+# 蓝牙
+[BluetoothKit](https://github.com/rasmusth/BluetoothKit)
+Easily communicate between iOS/OSX devices using BLE
+
 # 弹出框
 **[Popover](https://github.com/corin8823/Popover)**
 类似FB app的弹出框
@@ -171,6 +178,10 @@ Masonry的Swift移植版
 
 **[UIView-FDCollapsibleConstraints](https://github.com/forkingdog/UIView-FDCollapsibleConstraints)**
 AutoLayout辅助工具
+
+[Neon](https://github.com/mamaral/Neon)
+A powerful Swift programmatic UI layout framework.
+
 ***
 # Model
 [CFRuntime](https://github.com/nsdictionary/CFRuntime)
@@ -189,6 +200,10 @@ Swift版的MJExtension，运行时、反射与一键字典模型互转
 **[RazzleDazzle](https://github.com/IFTTT/RazzleDazzle)**
 
 **[Presentation](https://github.com/hyperoslo/Presentation)**
+***
+# 输入法
+**[squirrel](https://github.com/rime/squirrel)**
+Mac上的一款开源输入法
 ***
 # demo
 [CATextLayerTest](https://github.com/joeshang/CATextLayerTest)
@@ -243,6 +258,15 @@ WatchKit 开源小项目示例集锦
 **[MyTags](https://github.com/alienjun/MyTags)**
 用于表现修改个人标签，使用UICollectionView实现，动态背景框使用UICollectionViewFlowLayout的DecorationView实现
 
+[CoreAnimationCode](https://github.com/lzwjava/CoreAnimationCode)
+Code examples of the book "iOS Core Animation Advanced Techniques"
+
+[MVVM-IOS-Example](https://github.com/Machx/MVVM-IOS-Example)
+A basic example of a way to implement MVVM using ReactiveCocoa
+
+[Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro)
+**swift完整Radio应用**Professional Radio Station App, created w/ Swift 2.0
+
 ***
 # Helper
 [Unused](https://github.com/jeffhodnett/Unused)
@@ -269,6 +293,13 @@ Touch ID 和 password 的框架
 
 **[AlamofireImage](https://github.com/Alamofire/AlamofireImage)**
 swift版的SDWebImage,而且功能更多、灵活性更高，可以自己写 Image Filter
+
+**[FLEX](https://github.com/Flipboard/FLEX)**
+iPhone上的调试工具
+
+[adcdownload](https://github.com/iBcker/adcdownload)
+苹果开发者中心资源国内接力
+
 ***
 # 框架
 **[react-native](https://github.com/facebook/react-native)**
@@ -276,7 +307,6 @@ Facebook的React Native已经开源了iOS版本，使得你能基于JavaScript �
 
 **[samurai-native](https://github.com/hackers-painters/samurai-native)**
 基于私有web-core用html+css开发native app
-
 
 **[JSPatch](https://github.com/bang590/JSPatch)**
 动态更新iOS APP
@@ -305,6 +335,12 @@ OS Good Practices 最新版的中文翻译，融合了以往Objective-C和最近
 
 **[iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips)**
 iOS9适配教程
+
+[The-Art-Of-Programming-By-July](https://github.com/race604/The-Art-Of-Programming-By-July)
+Csdn 600万博客「结构之法算法之道」部分经典博文集锦：《程序员编程艺术 — 面试和算法心得》
+
+[AutoLayout](https://github.com/johnlui/AutoLayout)
+《Auto Layout 使用心得》系列文章代码仓库
 
 ***
 # 乱入
