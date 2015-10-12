@@ -4,7 +4,7 @@ Record the resources on Github
 
 在github上star太多了，有时候很难找到自己想要的开源库，所以在此记录下来。便于自己开发使用。也顺便分享给大家。
 
-最后更新日期：**10月10日**
+最后更新日期：**10月12日**
 ***
 # 动画
 **[awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation)**
@@ -34,7 +34,16 @@ icon 的点击动画过渡效果
 
 **[MMDrawerController](https://github.com/mutualmobile/MMDrawerController)**
 侧边栏
+
+**[Eureka](https://github.com/xmartlabs/Eureka)**
+swift-多功能表格
+
 ***
+# MapView
+**[ABFRealmMapView](https://github.com/bigfish24/ABFRealmMapView)**
+Real-time map view clustering for Realm
+***
+
 # UIView
 **[RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub)**
 快速给 UIView 添加上炫酷的通知图标
@@ -85,6 +94,10 @@ a replacement for Core Data & SQLite
 **[Objective-LevelDB](https://github.com/uber/Objective-LevelDB)**
 Uber开源的数据库框架
 ***
+# NetWork
+**[Pitaya](https://github.com/johnlui/Pitaya)**
+A Swift HTTP / HTTPS networking library just incidentally execute on machines
+***
 # UIImage
 [OLImageView](https://github.com/dtorres/OLImageView)
 加载gif图
@@ -127,7 +140,7 @@ vvebo作者：多选照片、预览已选照片、针对超大图片优化
 # 蓝牙
 [BluetoothKit](https://github.com/rasmusth/BluetoothKit)
 Easily communicate between iOS/OSX devices using BLE
-
+***
 # 弹出框
 **[Popover](https://github.com/corin8823/Popover)**
 类似FB app的弹出框
@@ -160,7 +173,7 @@ iOS平台下的图表组件
 **[LxThroughPointsBezier](https://github.com/DeveloperLx/LxThroughPointsBezier)**
 贝塞尔曲线
 ***
-#  Auto Layout
+# Auto Layout
 [PureLayout](https://github.com/smileyborg/PureLayout)
 自动布局
 
@@ -200,6 +213,10 @@ Swift版的MJExtension，运行时、反射与一键字典模型互转
 **[RazzleDazzle](https://github.com/IFTTT/RazzleDazzle)**
 
 **[Presentation](https://github.com/hyperoslo/Presentation)**
+
+**[HolyView](https://github.com/Frexas/HolyView)**
+swift-介绍视图
+
 ***
 # 输入法
 **[squirrel](https://github.com/rime/squirrel)**
