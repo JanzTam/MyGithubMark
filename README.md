@@ -42,6 +42,10 @@ swift-多功能表格
 # MapView
 **[ABFRealmMapView](https://github.com/bigfish24/ABFRealmMapView)**
 Real-time map view clustering for Realm
+
+[OCMapView](https://github.com/yinkou/OCMapView)
+Simple and easy to use clustering mapView for iOS
+
 ***
 
 # UIView
@@ -68,6 +72,9 @@ Rich Markdown editing control for iOS
 
 [FDStackView](https://github.com/forkingdog/FDStackView)
 Use UIStackView directly in iOS6+
+
+[STPopup](https://github.com/kevin0571/STPopup)
+p 提供了一个可在 iPhone 和 iPad 上使用的具有 UINavigationController 弹出效果的 STPopupController 类, 并能在 Storyboard 上很好的工作
 
 ***
 # VideoPlayer
@@ -110,6 +117,10 @@ A Swift HTTP / HTTPS networking library just incidentally execute on machines
 
 **[VVeboImageView](https://github.com/johnil/VVeboImageView)**
 vvebo作者-gif图加载，轻量、低内存
+
+[ForceZoom](https://github.com/FlexMonkey/ForceZoom)
+swift-利用3Dtouch查看图片细节
+
 ***
 # 图片选择、浏览
 [PhotoBrowser-swift](https://github.com/nsdictionary/PhotoBrowser)
@@ -140,6 +151,10 @@ vvebo作者：多选照片、预览已选照片、针对超大图片优化
 # 蓝牙
 [BluetoothKit](https://github.com/rasmusth/BluetoothKit)
 Easily communicate between iOS/OSX devices using BLE
+
+[BabyBluetooth](https://github.com/coolnameismy/BabyBluetooth)
+一个非常容易使用的蓝牙库,适用于ios和os
+
 ***
 # 弹出框
 **[Popover](https://github.com/corin8823/Popover)**
@@ -247,6 +262,9 @@ ipad版美团（swift版）
 **[meituan](https://github.com/lookingstars/meituan)**
 高仿美团iOS版
 
+[JFMeiTuan](https://github.com/tubie/JFMeiTuan)
+高仿美团
+
 **[BaiduFM-Swift](https://github.com/belm/BaiduFM-Swift)**
 百度FM swift语言实现
 
@@ -317,6 +335,9 @@ iPhone上的调试工具
 [adcdownload](https://github.com/iBcker/adcdownload)
 苹果开发者中心资源国内接力
 
+[xcode_shell](https://github.com/webfrogs/xcode_shell)
+自动打包脚本
+
 ***
 # 框架
 **[react-native](https://github.com/facebook/react-native)**
@@ -358,6 +379,9 @@ Csdn 600万博客「结构之法算法之道」部分经典博文集锦：《程
 
 [AutoLayout](https://github.com/johnlui/AutoLayout)
 《Auto Layout 使用心得》系列文章代码仓库
+
+[javascript](https://github.com/airbnb/javascript)
+js超仔细代码规范
 
 ***
 # 乱入
