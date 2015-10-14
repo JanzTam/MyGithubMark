@@ -22,6 +22,9 @@ icon 的点击动画过渡效果
 **[LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton)**
 可定制水滴型浮动动态按钮组件及演示
 
+[CardAnimation](https://github.com/seedante/CardAnimation)
+卡片式动画
+
 ***
 
 # 富文本
@@ -37,6 +40,9 @@ icon 的点击动画过渡效果
 
 **[Eureka](https://github.com/xmartlabs/Eureka)**
 swift-多功能表格
+
+[TaskSwitcherDemo](https://github.com/Glow-Inc/TaskSwitcherDemo)
+仿造 iOS 9 的 Task Switcher 做出来的动画效果
 
 ***
 # MapView
@@ -302,6 +308,9 @@ A basic example of a way to implement MVVM using ReactiveCocoa
 [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro)
 **swift完整Radio应用**Professional Radio Station App, created w/ Swift 2.0
 
+[WeChat](https://github.com/Thinklion/WeChat)
+模仿微信的xmpp应用
+
 ***
 # Helper
 [Unused](https://github.com/jeffhodnett/Unused)
@@ -337,6 +346,9 @@ iPhone上的调试工具
 
 [xcode_shell](https://github.com/webfrogs/xcode_shell)
 自动打包脚本
+
+[MonkeyKing](https://github.com/nixzhu/MonkeyKing)
+集成微信、微博、qq社会化分享
 
 ***
 # 框架
