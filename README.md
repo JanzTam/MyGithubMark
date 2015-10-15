@@ -4,7 +4,7 @@ Record the resources on Github
 
 在github上star太多了，有时候很难找到自己想要的开源库，所以在此记录下来。便于自己开发使用。也顺便分享给大家。
 
-最后更新日期：**10月14日**
+最后更新日期：**10月15日**
 ***
 # 动画
 **[awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation)**
@@ -24,7 +24,8 @@ icon 的点击动画过渡效果
 
 [CardAnimation](https://github.com/seedante/CardAnimation)
 卡片式动画
-
+[pull-back-layout](https://github.com/oxoooo/pull-back-layout)
+Pull down to finish an Activity.
 ***
 
 # 富文本
@@ -152,6 +153,9 @@ vvebo作者：多选照片、预览已选照片、针对超大图片优化
 
 **[Nuke](https://github.com/kean/Nuke)**
 完整、强大、实用的图片管理类库。主要功能包括可定制装载，缓存，滤镜及尺寸变换。
+
+[SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser)
+swift 图片浏览
 
 ***
 # 蓝牙
@@ -311,6 +315,9 @@ A basic example of a way to implement MVVM using ReactiveCocoa
 [WeChat](https://github.com/Thinklion/WeChat)
 模仿微信的xmpp应用
 
+[Coding-iPad](https://github.com/Coding/Coding-iPad)
+ Coding iPad 客户端源代码
+ 
 ***
 # Helper
 [Unused](https://github.com/jeffhodnett/Unused)
@@ -349,6 +356,9 @@ iPhone上的调试工具
 
 [MonkeyKing](https://github.com/nixzhu/MonkeyKing)
 集成微信、微博、qq社会化分享
+
+[j2objc](https://github.com/google/j2objc)
+jave to objc
 
 ***
 # 框架
