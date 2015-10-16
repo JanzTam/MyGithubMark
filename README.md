@@ -4,7 +4,7 @@ Record the resources on Github
 
 在github上star太多了，有时候很难找到自己想要的开源库，所以在此记录下来。便于自己开发使用。也顺便分享给大家。
 
-最后更新日期：**10月15日**
+最后更新日期：**10月16日**
 ***
 # 动画
 **[awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation)**
@@ -83,6 +83,9 @@ Use UIStackView directly in iOS6+
 [STPopup](https://github.com/kevin0571/STPopup)
 p 提供了一个可在 iPhone 和 iPad 上使用的具有 UINavigationController 弹出效果的 STPopupController 类, 并能在 Storyboard 上很好的工作
 
+[ZKPulseView](https://github.com/zackhsuan/ZKPulseView)
+呼吸灯
+
 ***
 # VideoPlayer
 **[KRVideoPlayer](https://github.com/36Kr-Mobile/KRVideoPlayer)**
@@ -157,6 +160,12 @@ vvebo作者：多选照片、预览已选照片、针对超大图片优化
 [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser)
 swift 图片浏览
 
+[VIPhotoView](https://github.com/vitoziv/VIPhotoView)
+图片浏览
+
+[AGImagePickerController](https://github.com/SpringOx/AGImagePickerController)
+图片选择，适用所有iOS设备
+
 ***
 # 蓝牙
 [BluetoothKit](https://github.com/rasmusth/BluetoothKit)
@@ -219,6 +228,9 @@ AutoLayout辅助工具
 
 [Neon](https://github.com/mamaral/Neon)
 A powerful Swift programmatic UI layout framework.
+
+[Sketch-Constraints](https://github.com/bouchenoiremarc/Sketch-Constraints)
+Sketch插件类似Autolayout
 
 ***
 # Model
