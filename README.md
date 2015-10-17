@@ -4,7 +4,7 @@ Record the resources on Github
 
 在github上star太多了，有时候很难找到自己想要的开源库，所以在此记录下来。便于自己开发使用。也顺便分享给大家。
 
-最后更新日期：**10月16日**
+最后更新日期：**10月17日**
 ***
 # 动画
 **[awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation)**
@@ -85,6 +85,9 @@ p 提供了一个可在 iPhone 和 iPad 上使用的具有 UINavigationControlle
 
 [ZKPulseView](https://github.com/zackhsuan/ZKPulseView)
 呼吸灯
+
+**[attributedlabel](https://github.com/NimbusKit/attributedlabel)**
+属性label，支持多样式字符串
 
 ***
 # VideoPlayer
