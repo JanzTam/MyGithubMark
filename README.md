@@ -207,7 +207,6 @@ Easily communicate between iOS/OSX devices using BLE
 - Pushes/Pops a view controller when hides/shows navigation bar display soomthly【当控制器做Push/Pop时无缝、平滑地显隐导航栏】
 - Release some restrictions make your navigation controller stronger【解除一些限制，使你的导航控制器更加强大】
 - Follow Apple's API design principles,uses as natural as system api【遵循Apple Inc的API设计原则，使用就像系统API一样自然】
--
 
 [LTNavigationBar](https://github.com/ltebean/LTNavigationBar)
 UINavigationBar Category更自由改变导航栏的背景色
