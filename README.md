@@ -4,7 +4,8 @@ Record the resources on Github
 
 在github上star太多了，有时候很难找到自己想要的开源库，所以在此记录下来。便于自己开发使用。也顺便分享给大家。
 
-最后更新日期：**10月17日**
+最后更新日期：**10月20日**
+最后更新：LTNavigationBar
 ***
 # 动画
 **[awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation)**
@@ -28,6 +29,14 @@ icon 的点击动画过渡效果
 Pull down to finish an Activity.
 ***
 
+# UIWebView
+**[TLMetaResolver](https://github.com/tryolabs/TLMetaResolver)**
+装载 Web 页面时，该 UIWebView 扩展自动解析 HTML 头部 Meta Tags
+
+[SCSafariViewController](https://github.com/stringcode86/SCSafariViewController)
+Push / Pop modal SFSafariViewController (原本只能Present).
+
+***
 # 富文本
 **[DDRichText](https://github.com/daiweilai/DDRichText)**
 附带了微信朋友圈Demo,[博客详解](http://www.cnblogs.com/daiweilai/p/4304500.html)
@@ -198,6 +207,11 @@ Easily communicate between iOS/OSX devices using BLE
 - Pushes/Pops a view controller when hides/shows navigation bar display soomthly【当控制器做Push/Pop时无缝、平滑地显隐导航栏】
 - Release some restrictions make your navigation controller stronger【解除一些限制，使你的导航控制器更加强大】
 - Follow Apple's API design principles,uses as natural as system api【遵循Apple Inc的API设计原则，使用就像系统API一样自然】
+-
+
+[LTNavigationBar](https://github.com/ltebean/LTNavigationBar)
+UINavigationBar Category更自由改变导航栏的背景色
+
 ***
 # k线图、表格、贝塞尔曲线
 **[awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart)**
@@ -235,6 +249,11 @@ A powerful Swift programmatic UI layout framework.
 [Sketch-Constraints](https://github.com/bouchenoiremarc/Sketch-Constraints)
 Sketch插件类似Autolayout
 
+**[andyAutoLayout](https://github.com/casatwy/HandyAutoLayout)**
+UIView的autolayout类目
+
+[SDAutoLayout](https://github.com/gsdios/SDAutoLayout)
+一句代码添加autolayout
 ***
 # Model
 [CFRuntime](https://github.com/nsdictionary/CFRuntime)
@@ -375,6 +394,9 @@ iPhone上的调试工具
 [j2objc](https://github.com/google/j2objc)
 jave to objc
 
+[xcode-snippets](https://github.com/Abizern/xcode-snippets)
+swift-代码片段 (Snippets)。用于管理一些常用的代码段，在需要时通过代码补全自动生成出来，可以提高工作效率。
+
 ***
 # 框架
 **[react-native](https://github.com/facebook/react-native)**
@@ -426,3 +448,6 @@ js超仔细代码规范
 [集合了2010—2015年所有WWDC的视频字](http://asciiwwdc.com/)
 
 [查看GitHub代码的Chrome插件](https://github.com/buunguyen/octotree)
+
+[Cakebrew](https://github.com/brunophilipe/Cakebrew)
+Homebrew图形界面管理
