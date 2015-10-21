@@ -4,8 +4,9 @@ Record the resources on Github
 
 在github上star太多了，有时候很难找到自己想要的开源库，所以在此记录下来。便于自己开发使用。也顺便分享给大家。
 
-最后更新日期：**10月20日**
-最后更新：LTNavigationBar
+最后更新日期：**10月21日**
+
+最后更新：`ios_top_1000`
 ***
 # 动画
 **[awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation)**
@@ -27,6 +28,12 @@ icon 的点击动画过渡效果
 卡片式动画
 [pull-back-layout](https://github.com/oxoooo/pull-back-layout)
 Pull down to finish an Activity.
+
+[HYAwesomeTransition](https://github.com/nathanwhy/HYAwesomeTransition)
+`瓦拉格`转场动画
+
+[DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh)
+swift-弹性下拉动画
 ***
 
 # UIWebView
@@ -112,6 +119,8 @@ VKVideoPlayer is the same battle tested video player used in our **Viki** iOS A
 **[ijkplayer](https://github.com/Bilibili/ijkplayer)**
 Android/iOS video player based on FFmpeg n2.8, with MediaCodec, VideoToolbox support.
 
+[Eleven](https://github.com/coderyi/Eleven)
+Eleven Player is a simple powerful video player.use ffmpeg.
 ***
 # SQL
 **[realm-cocoa](https://github.com/realm/realm-cocoa)**
@@ -280,6 +289,13 @@ swift-介绍视图
 **[squirrel](https://github.com/rime/squirrel)**
 Mac上的一款开源输入法
 ***
+# 日历类
+[CVCalendar](https://github.com/Mozharovsky/CVCalendar)
+swift上的日历第三方库
+
+[PDTSimpleCalendar](https://github.com/jivesoftware/PDTSimpleCalendar)
+OC上的日历第三方库
+***
 # demo
 [CATextLayerTest](https://github.com/joeshang/CATextLayerTest)
 使用 CATextLayer，实现文字的整体变色（网易新闻顶部菜单）与区域变色（UC 浏览器阅读器顶部菜单）功能。
@@ -441,6 +457,9 @@ Csdn 600万博客「结构之法算法之道」部分经典博文集锦：《程
 [javascript](https://github.com/airbnb/javascript)
 js超仔细代码规范
 
+[ios_top_1000](https://github.com/iamdaiyuan/ios_top_1000)
+常用库整理
+
 ***
 # 乱入
 ####WWDC
@@ -450,3 +469,6 @@ js超仔细代码规范
 
 [Cakebrew](https://github.com/brunophilipe/Cakebrew)
 Homebrew图形界面管理
+
+[CotEditor](https://github.com/coteditor/CotEditor)
+CotEditor is a lightweight plain-text editor for OS X 开源轻量级的Mac端文本编译
