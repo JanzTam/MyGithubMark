@@ -4,9 +4,9 @@ Record the resources on Github
 
 在github上star太多了，有时候很难找到自己想要的开源库，所以在此记录下来。便于自己开发使用。也顺便分享给大家。
 
-最后更新日期：**10月21日**
+最后更新日期：**10月22日**
 
-最后更新：`ios_top_1000`
+最后更新：`XXPlaceHolder`
 ***
 # 动画
 **[awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation)**
@@ -367,6 +367,16 @@ A basic example of a way to implement MVVM using ReactiveCocoa
 [Coding-iPad](https://github.com/Coding/Coding-iPad)
  Coding iPad 客户端源代码
  
+***
+# 调试-测量视图
+[MMPlaceHolder](https://github.com/adad184/MMPlaceHolder)
+A drop in solution to show UIView's size. Only one line code to use it.
+
+[ViewMonitor](https://github.com/daisuke0131/ViewMonitor)
+ViewMonitor can measure view positions with accuracy.
+
+[XXPlaceHolder](https://github.com/adad184/XXPlaceHolder)
+Swift version of MMPlaceHolder
 ***
 # Helper
 [Unused](https://github.com/jeffhodnett/Unused)
