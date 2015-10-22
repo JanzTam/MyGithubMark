@@ -470,6 +470,12 @@ js超仔细代码规范
 [ios_top_1000](https://github.com/iamdaiyuan/ios_top_1000)
 常用库整理
 
+
+[开源APP](https://github.com/dkhamsing/open-source-ios-apps/tree/5e7def7a8f070800ea586a90e5981bece9b67611)
+开源APP总结
+
+[iOS资料总结vsouza/awesome-ios](https://github.com/vsouza/awesome-ios)
+
 ***
 # 乱入
 ####WWDC
