@@ -4,9 +4,9 @@ Record the resources on Github
 
 在github上star太多了，有时候很难找到自己想要的开源库，所以在此记录下来。便于自己开发使用。也顺便分享给大家。
 
-最后更新日期：**10月22日**
+最后更新日期：**10月23日**
 
-最后更新：`XXPlaceHolder`
+最后更新：`iOS-Runtime-Headers`
 ***
 # 动画
 **[awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation)**
@@ -34,6 +34,9 @@ Pull down to finish an Activity.
 
 [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh)
 swift-弹性下拉动画
+
+**[StarWars.iOS](https://github.com/Yalantis/StarWars.iOS)**
+瞬间崩塌为小方块动画效果演示。Yalantis 出品[博客详解](https://yalantis.com/blog/uidynamics-uikit-or-opengl-3-types-of-ios-animations-for-the-star-wars/)
 ***
 
 # UIWebView
@@ -295,6 +298,21 @@ swift上的日历第三方库
 
 [PDTSimpleCalendar](https://github.com/jivesoftware/PDTSimpleCalendar)
 OC上的日历第三方库
+***
+# TextField
+[ACAnimatedTextField](https://github.com/AlexCatch/ACAnimatedTextField)
+ 它是 UITextField 的子集，以动画图像做为占位符
+***
+# 插件
+[IconMaker](https://github.com/kaphacius/IconMaker)
+快速生成不同尺寸的App Icon
+
+[RTImageAssets](https://github.com/rickytan/RTImageAssets)
+快速生成@2x、@3X
+***
+# 私有API
+[iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers)
+iOS9私有API
 ***
 # demo
 [CATextLayerTest](https://github.com/joeshang/CATextLayerTest)
