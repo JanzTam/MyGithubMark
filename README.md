@@ -4,9 +4,9 @@ Record the resources on Github
 
 在github上star太多了，有时候很难找到自己想要的开源库，所以在此记录下来。便于自己开发使用。也顺便分享给大家。
 
-最后更新日期：**10月23日**
+最后更新日期：**10月29日**
 
-最后更新：`iOS-Runtime-Headers`
+最后更新：`SocketRocket`
 ***
 # 动画
 **[awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation)**
@@ -37,6 +37,21 @@ swift-弹性下拉动画
 
 **[StarWars.iOS](https://github.com/Yalantis/StarWars.iOS)**
 瞬间崩塌为小方块动画效果演示。Yalantis 出品[博客详解](https://yalantis.com/blog/uidynamics-uikit-or-opengl-3-types-of-ios-animations-for-the-star-wars/)
+
+[WaveRefresh](https://github.com/alienjun/WaveRefresh)
+下拉刷新灌水动画
+
+[LiquidLoader](https://github.com/yoavlt/LiquidLoader)
+swift-黏性加载动画
+
+**[mntpulltoreact](https://github.com/mentionapp/mntpulltoreact)**
+下拉的基础上然后滑动选择
+
+[RMEIdeasPullToSortControl](https://github.com/zogieosagie/RMEIdeasPullToSortControl)
+下拉的基础上然后滑动选择2
+
+[EasyAnimation](https://github.com/icanzilb/EasyAnimation)
+动画简单使用
 ***
 
 # UIWebView
@@ -46,10 +61,15 @@ swift-弹性下拉动画
 [SCSafariViewController](https://github.com/stringcode86/SCSafariViewController)
 Push / Pop modal SFSafariViewController (原本只能Present).
 
+[RxWebViewController](https://github.com/Roxasora/RxWebViewController)
+实现类似微信的 webView 导航效果，包括进度条，左滑返回上个网页或者直接关闭，就像 UINavigationControlle
 ***
 # 富文本
 **[DDRichText](https://github.com/daiweilai/DDRichText)**
 附带了微信朋友圈Demo,[博客详解](http://www.cnblogs.com/daiweilai/p/4304500.html)
+
+[WordPress-Editor-iOS](https://github.com/wordpress-mobile/WordPress-Editor-iOS)
+强大的富文本，支持markdown语法
 ***
 # ViewController
 **[JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)**
@@ -64,6 +84,11 @@ swift-多功能表格
 [TaskSwitcherDemo](https://github.com/Glow-Inc/TaskSwitcherDemo)
 仿造 iOS 9 的 Task Switcher 做出来的动画效果
 
+[TYAlertController](https://github.com/12207480/TYAlertController)
+弹出框
+
+[DrawerController](https://github.com/sascha/DrawerController)
+swift侧边栏 - Side Drawer Navigation Controller in Swift (based on MMDrawerController)
 ***
 # MapView
 **[ABFRealmMapView](https://github.com/bigfish24/ABFRealmMapView)**
@@ -108,6 +133,11 @@ p 提供了一个可在 iPhone 和 iPad 上使用的具有 UINavigationControlle
 **[attributedlabel](https://github.com/NimbusKit/attributedlabel)**
 属性label，支持多样式字符串
 
+[CMPopTipView_Swift](https://github.com/yichizhang/CMPopTipView_Swift)
+泡泡风格的提示框开源控件, 继承自UIView
+
+[TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator)
+ page control-swift
 ***
 # VideoPlayer
 **[KRVideoPlayer](https://github.com/36Kr-Mobile/KRVideoPlayer)**
@@ -124,6 +154,9 @@ Android/iOS video player based on FFmpeg n2.8, with MediaCodec, VideoToolbox sup
 
 [Eleven](https://github.com/coderyi/Eleven)
 Eleven Player is a simple powerful video player.use ffmpeg.
+
+[Chirp](https://github.com/trifl/Chirp)
+swift-封装了音频，更加方便使用
 ***
 # SQL
 **[realm-cocoa](https://github.com/realm/realm-cocoa)**
@@ -134,6 +167,9 @@ a replacement for Core Data & SQLite
 
 **[Objective-LevelDB](https://github.com/uber/Objective-LevelDB)**
 Uber开源的数据库框架
+
+[SQLite.swift](https://github.com/stephencelis/SQLite.swift)
+名字已告诉你
 ***
 # NetWork
 **[Pitaya](https://github.com/johnlui/Pitaya)**
@@ -234,6 +270,9 @@ iOS平台下的图表组件
 **[LxThroughPointsBezier-Swift](https://github.com/DeveloperLx/LxThroughPointsBezier-Swift)**
 **[LxThroughPointsBezier](https://github.com/DeveloperLx/LxThroughPointsBezier)**
 贝塞尔曲线
+
+[3DCharts](https://github.com/vnagar/3DCharts)
+3D表格-swift
 ***
 # Auto Layout
 [PureLayout](https://github.com/smileyborg/PureLayout)
@@ -287,6 +326,8 @@ Swift版的MJExtension，运行时、反射与一键字典模型互转
 **[HolyView](https://github.com/Frexas/HolyView)**
 swift-介绍视图
 
+[Instructions](https://github.com/ephread/Instructions)
+可定制嵌入式操作指引框架及演示
 ***
 # 输入法
 **[squirrel](https://github.com/rime/squirrel)**
@@ -298,6 +339,9 @@ swift上的日历第三方库
 
 [PDTSimpleCalendar](https://github.com/jivesoftware/PDTSimpleCalendar)
 OC上的日历第三方库
+
+[MDCalendarSelector](https://github.com/deirinberg/MDCalendarSelector)
+swift-日历
 ***
 # TextField
 [ACAnimatedTextField](https://github.com/AlexCatch/ACAnimatedTextField)
@@ -309,10 +353,42 @@ OC上的日历第三方库
 
 [RTImageAssets](https://github.com/rickytan/RTImageAssets)
 快速生成@2x、@3X
+
+[sketchexporter](https://github.com/mariuszostrowski/sketchexporter)
+快速将.sketch文件导入到assest
+
+[XBookmark](https://github.com/everettjf/XBookmark)
+Xcode代码书签
+
+[spacecommander](https://github.com/square/spacecommander)
+排版插件
 ***
 # 私有API
 [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers)
 iOS9私有API
+***
+# 通讯录
+[BeautyAddressBook](https://github.com/hackxhj/BeautyAddressBook)
+通讯录,文字头像
+***
+# 二维码
+[libqrencode](https://github.com/fukuchi/libqrencode)
+生成二维码
+
+[QRWeiXinDemo](https://github.com/lcddhr/QRWeiXinDemo)
+二维码
+***
+# AppleTV
+[Aerial](https://github.com/JohnCoates/Aerial)
+John Coates把Apple TV的Aerial屏保做成了mac屏保
+***
+# MVVM
+[MVVM](https://github.com/lizelu/MVVM)
+一个MVVM架构的iOS工程
+
+
+[MVVM-IOS-Example](https://github.com/Machx/MVVM-IOS-Example)
+A basic example of a way to implement MVVM using ReactiveCocoa
 ***
 # demo
 [CATextLayerTest](https://github.com/joeshang/CATextLayerTest)
@@ -320,9 +396,6 @@ iOS9私有API
 
 [SafariAutoLoginTest](https://github.com/mackuba/SafariAutoLoginTest)
 通过safari自动登录APP
-
-[QRWeiXinDemo](https://github.com/lcddhr/QRWeiXinDemo)
-二维码
 
 [WeChatDemo](https://github.com/ioschen/WeChatDemo)
 微信demo
@@ -373,9 +446,6 @@ WatchKit 开源小项目示例集锦
 [CoreAnimationCode](https://github.com/lzwjava/CoreAnimationCode)
 Code examples of the book "iOS Core Animation Advanced Techniques"
 
-[MVVM-IOS-Example](https://github.com/Machx/MVVM-IOS-Example)
-A basic example of a way to implement MVVM using ReactiveCocoa
-
 [Swift-Radio-Pro](https://github.com/swiftcodex/Swift-Radio-Pro)
 **swift完整Radio应用**Professional Radio Station App, created w/ Swift 2.0
 
@@ -385,6 +455,13 @@ A basic example of a way to implement MVVM using ReactiveCocoa
 [Coding-iPad](https://github.com/Coding/Coding-iPad)
  Coding iPad 客户端源代码
  
+ [SocketRocket](https://github.com/square/SocketRocket)
+SocketRocket是一个WebSocket客户端（WebSocket是适用于Web应用的下一代全双工通讯协议，被成为“Web的TCP”，它实现了浏览器与服务器的双向通信），采用Object-C编写。
+ ***
+# swift应用
+ 
+ [NirZhihuDaily2.0](https://github.com/zpz1237/NirZhihuDaily2.0)
+ 知乎日报
 ***
 # 调试-测量视图
 [MMPlaceHolder](https://github.com/adad184/MMPlaceHolder)
@@ -395,6 +472,12 @@ ViewMonitor can measure view positions with accuracy.
 
 [XXPlaceHolder](https://github.com/adad184/XXPlaceHolder)
 Swift version of MMPlaceHolder
+
+[PonyDebugger](https://github.com/square/PonyDebugger)
+优秀的iOS应用网络调试工具，查看UI结构
+
+[LxDBAnything](https://github.com/DeveloperLx/LxDBAnything)
+封装了NSLog，可打印任何类型
 ***
 # Helper
 [Unused](https://github.com/jeffhodnett/Unused)
@@ -440,6 +523,12 @@ jave to objc
 [xcode-snippets](https://github.com/Abizern/xcode-snippets)
 swift-代码片段 (Snippets)。用于管理一些常用的代码段，在需要时通过代码补全自动生成出来，可以提高工作效率。
 
+[PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit)
+swift-简单、直接，配置精简但功能强大的电话号码处理插件
+
+[Valet](https://github.com/square/Valet)
+Valet lets you securely store data in the iOS or OS X Keychain without knowing a thing about how the Keychain works. It’s easy. We promise.
+
 ***
 # 框架
 **[react-native](https://github.com/facebook/react-native)**
@@ -450,6 +539,9 @@ Facebook的React Native已经开源了iOS版本，使得你能基于JavaScript �
 
 **[JSPatch](https://github.com/bang590/JSPatch)**
 动态更新iOS APP
+
+[wax](https://github.com/alibaba/wax)
+热修复，已更新支持64位，基于lua脚本。大众点评、网易等已使用多年
 ***
 # 文章
 [Why-Reject](https://github.com/jcccn/Why-Reject)
@@ -494,6 +586,14 @@ js超仔细代码规范
 
 [iOS资料总结vsouza/awesome-ios](https://github.com/vsouza/awesome-ios)
 
+[github-roam](https://github.com/phodal/github-roam)
+GitHub 漫游指南- a Chinese ebook on how to build a good build on Github
+
+**[DWCategory](https://github.com/Damonvvong/DWCategory)**
+借助 GitHub 托管 Category，利用 CocoaPods 集成到项目中
+
+[gitflow](https://github.com/nvie/gitflow)
+
 ***
 # 乱入
 ####WWDC
@@ -506,3 +606,12 @@ Homebrew图形界面管理
 
 [CotEditor](https://github.com/coteditor/CotEditor)
 CotEditor is a lightweight plain-text editor for OS X 开源轻量级的Mac端文本编译
+
+[lanyon](https://github.com/poole/lanyon)
+lanyon 是一款强调内容优先, 附有侧边栏的 Jekyll 主题,, 整体界面和文字内容等排版十分简约, 自然, 清新, 能够让读者的精力更加专注在文章内容上面
+
+[WWDC-2015](https://github.com/TosinAF/WWDC-2015)
+My Application for the 2015 WWDC Scholarship Application
+
+[nodePPT](https://github.com/ksky521/nodePPT)
+这可能是迄今为止最好的网页版PPT
